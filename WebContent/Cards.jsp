@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
-    <%@ page import="com.architectcorner.ai.citi.sandbox.services.*" %>
-    <%@ page import="com.architectcorner.ai.platform.util.*" %>
+    <%@ page import="org.mediaresponse.ai.citi.sandbox.services.*" %>
+    <%@ page import="org.mediaresponse.ai.platform.util.*" %>
     <%@ page import="java.util.*" %>
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->

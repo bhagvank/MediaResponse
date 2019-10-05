@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
-    <%@ page import="com.architectcorner.ai.citi.sandbox.services.*" %>
-     <%@ page import="com.architectcorner.ai.platform.util.*" %>
+    <%@ page import="org.mediaresponse.ai.citi.sandbox.services.*" %>
+     <%@ page import="org.mediaresponse.ai.platform.util.*" %>
     <%@ page import="java.util.*" %>
     
 <!DOCTYPE html>

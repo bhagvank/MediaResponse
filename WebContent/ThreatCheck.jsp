@@ -1,11 +1,11 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
     <%@ page import="java.io.*,java.util.*" %>
-    <%@ page import="com.architectcorner.ai.mediaresponse.manager.*" %>
-    <%@ page import="com.architectcorner.ai.network.analysis.*" %>
-    <%@ page import="com.architectcorner.ai.nlp.processing.*" %>
-    <%@ page import="com.architectcorner.ai.platform.esb.*" %>
-    <%@ page import="com.architectcorner.ai.platform.messagequeue.*" %>    
+    <%@ page import="org.mediaresponse.ai.mediaresponse.manager.*" %>
+    <%@ page import="org.mediaresponse.ai.network.analysis.*" %>
+    <%@ page import="org.mediaresponse.ai.nlp.processing.*" %>
+    <%@ page import="org.mediaresponse.ai.platform.esb.*" %>
+    <%@ page import="org.mediaresponse.ai.platform.messagequeue.*" %>    
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
